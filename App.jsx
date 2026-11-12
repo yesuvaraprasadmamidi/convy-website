@@ -318,7 +318,7 @@ function App() {
     <footer className="footer">
       <div className="section-container">
         <div className="footer-top"><div className="footer-brand"><Brand light/><p>Customer conversations, campaigns and operations — connected in one place.</p></div><div className="footer-links"><div><b>PLATFORM</b><a href="#platform">Overview</a><a href="#features">Features</a><a href="#pricing">Pricing</a></div><div><b>EXPLORE</b><a href="#solutions">Solutions</a><a href="#faq">FAQs</a><a href="https://www.convy.info/" target="_blank" rel="noreferrer">Original website</a></div><div><b>GET STARTED</b><a href="https://app.convy.info/" target="_blank" rel="noreferrer">Create organization</a><a href="https://app.convy.info/" target="_blank" rel="noreferrer">Log in</a></div></div></div>
-        <div className="footer-bottom"><span>© {new Date().getFullYear()} Convy. All rights reserved.</span><span>Customer operations, on WhatsApp first.</span><a href="#top">Back to top ↑</a></div>
+        <div className="footer-bottom"><span>© {new Date().getFullYear()} Prasad Web Solutions. All rights reserved.</span><span>Customer operations, on WhatsApp first.</span><a href="#top">Back to top ↑</a></div>
       </div>
     </footer>
   </div>;
